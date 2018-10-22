@@ -3,6 +3,8 @@ MLrecognize
 
 retrain:
 
+10% of the dataset will be used for testing, and another 10% will be used for validation. 
+
 You may use your own dataset to train the model, just add the path of your dataset to the end of the terminal command.
 
 label_image:
