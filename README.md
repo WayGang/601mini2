@@ -1,6 +1,8 @@
 # 601mini2
 MLrecognize
+
 retrain:
+
 You may use your own dataset to train the model, just add the path of your dataset to the end of the terminal command.
 
 label_image:
