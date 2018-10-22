@@ -9,4 +9,7 @@ label_image:
 
 You will enter the path of your image, graph and label to recognize the image.
 
-If you want to use API, you can download the API.py. "run.py" shows the example of how to use the API.
+API:
+If you want to use API, you can download the "API.py".
+
+"run.py" shows the example of how to use the API.
